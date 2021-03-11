@@ -1,42 +1,38 @@
 ---
 name: ERDDAP Dataset Initial Submission
-about: 'This issue template present the general Hakai dataset submission workflow. '
+about: 'This issue template present the general CIOOS dataset submission workflow. '
 title: 'Dataset Submission: Dataset ID Here'
 labels: Submission
-assignees: JessyBarrette
-
+assignees: ''
 ---
 
-# Hakai Dataset Submission 
+# CIOOS Dataset Submission 
 Below are listed all the different steps related to the initial submission of a dataset. 
-
-A more detailed written and visual description of every step is available respectively 
-[here](https://docs.google.com/document/d/1QMU0skj7kWbxuS_cVUNkTYZSeqpa1lVsK7WJvC4hMyA/edit?usp=sharing) and [here](https://lucid.app/lucidchart/invitations/accept/ae8530a5-4a8f-435e-b17a-60aab0773f2f). 
-
+Fill in as many details as possible. It is expected that most but not all datasets will follow similar stages. The workflow is not linear but all 'Essential' stages will need to be completed for dataset to be marked as 'Complete'
 # Submission steps
-## Initial Submission (Data Administrator)
-- [ ] Original Data Submission
-- [ ] CIOOS Metadata Form completed
+It is assumed that most CIOOS datasets will follow different stages from initial EOI (Expression of Interest) by Data Owner to finally becoming available to the public on CIOOS website.
+## Initial Submission
+- [ ] CIOOS dataset submission process initiated
+- [ ] CIOOS Metadata form completed
 
-## ERDDAP Dataset Creation (Data Integrator)
-- [ ] Dataset Transformation  (Format label)
-    - :green_circle: Format Compatible 
-    - :yellow_circle: Format Minor Revisions
-    - :orange_circle: Format Major Revisions
-    - :red_circle:  Format Incompatible/Missing Information
-- [ ] Near Real-time Data Integration 
-- [ ] QARTOD Integration 
-- [ ] ERDDAP Integration 
-- [ ] ERDDAP Dataset Documentation 
-- [ ] ERDDAP Test Locally 
-- [ ] Add Dataset to Development Branch
+## Create ERDDAP Dataset
+- [ ] Transform data into ERDDAP compatible format
+- [ ] QARTOD Integration (optional)
+- [ ] Create <dataset_id>.xml for ERDDAP
+- [ ] Review dataset on ERDDAP
+- [ ] Test dataset on dev/test server
 
-## Dataset Review (Data Administrator)
+## Create CKAN Record
+- [ ] Create CKAN record using metadata entry tool []
+- [ ] Review record on test/dev server
+- [ ] Test dataset on dev/test server
+
+## Dataset Review
 - [ ] Dataset Development Branch Revision (Reviewer Label)
     - :green_circle: Reviewer Approved
-    - :yellow_circle: Reviewer Minor Revisions    
+    - :yellow_circle: Reviewer Minor Revisions
     - :orange_circle: Reviewer Major Revisions
 
-## Dataset Completion (Data Integrator)
+## Dataset Completion
 - [ ] Merge Development Dataset to Production Branch 
 - [ ] COMPLETED
