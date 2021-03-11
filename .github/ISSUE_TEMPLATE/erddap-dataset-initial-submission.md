@@ -6,11 +6,9 @@ labels: Submission
 assignees: ''
 ---
 
-# CIOOS Dataset Submission 
-Below are listed all the different steps related to the initial submission of a dataset. 
+# CIOOS Dataset Workflow
+Listed below are the different steps related to the initial submission of a dataset. 
 Fill in as many details as possible. It is expected that most but not all datasets will follow similar stages. The workflow is not linear but all 'Essential' stages will need to be completed for dataset to be marked as 'Complete'
-# Submission steps
-It is assumed that most CIOOS datasets will follow different stages from initial EOI (Expression of Interest) by Data Owner to finally becoming available to the public on CIOOS website.
 ## Initial Submission
 - [ ] CIOOS dataset submission process initiated
 - [ ] CIOOS Metadata form completed
