@@ -1,16 +1,19 @@
 ---
-Issue: Short description of problem
-about: Create a report to help us improve our datasets
 Title: 'Dataset ID'
-labels: bug/update
+Issue: Short description of problem
+About: Create a report to help us improve our datasets
+Labels: bug/update
 ---
 
-# Dataset ID
+## Dataset Links
+[essential ] Link to ERDDAP Dataset
+[optional] Link to CKAN record
+
 ## Issue description
-A clear and concise description of what the bug is.
+[optional] A clear and concise description of what the bug is.
 
 ## Suggestion for correction
-Descript a possible correction to apply
+[optional] Descript a possible correction to apply
 
 ## Additional context
-Add any other context about the problem here.
+[optional] Add any other context about the problem here.
