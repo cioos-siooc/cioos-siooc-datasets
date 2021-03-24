@@ -1,5 +1,5 @@
 ---
-name: Dataset Workflow
+name: Dataset Status Tracker
 title: Dataset ID/Title
 about: Track dataset status
 labels: enhancement
