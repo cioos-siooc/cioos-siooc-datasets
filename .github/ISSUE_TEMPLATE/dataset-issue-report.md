@@ -6,6 +6,7 @@ labels: bug
 ---
 
 ## Dataset Links
+[essential] Tag issue tracking dataset progress here
 [essential ] Link to ERDDAP Dataset
 [optional] Link to CKAN record
 
