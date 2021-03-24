@@ -2,6 +2,7 @@
 name: Dataset Issues
 title: Dataset ID
 about: Report Issue with dataset
+label: bug
 ---
 
 ## Dataset Links
