@@ -2,8 +2,7 @@
 Issue: Short description of problem
 about: Create a report to help us improve our datasets
 Title: 'Dataset ID'
-labels: bug
-assignees: ''
+labels: bug/update
 ---
 
 # Dataset ID
