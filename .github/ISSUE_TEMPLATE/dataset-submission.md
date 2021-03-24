@@ -2,7 +2,7 @@
 name: Dataset Workflow
 title: Dataset ID/Title
 about: Track dataset status
-label: enhancement
+labels: enhancement
 ---
 
 ERDDAP: ERDDAP [link]()
