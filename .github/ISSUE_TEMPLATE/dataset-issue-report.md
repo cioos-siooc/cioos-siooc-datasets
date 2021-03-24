@@ -1,10 +1,9 @@
 ---
-name: Dataset Issue report
+Issue: Short description of problem
 about: Create a report to help us improve our datasets
-title: 'Issue: Dataset ID here'
+Title: 'Dataset ID'
 labels: bug
 assignees: ''
-
 ---
 
 # Dataset ID

@@ -17,20 +17,18 @@ Fill in as many details as possible. It is expected that most but not all datase
 - [ ] Transform data into ERDDAP compatible format
 - [ ] QARTOD Integration (optional)
 - [ ] Create <dataset_id>.xml for ERDDAP
-- [ ] Review dataset on ERDDAP
-- [ ] Test dataset on dev/test server
+- [ ] Test dataset on dev. ERDDAP server
 
 ## Create CKAN Record
-- [ ] Create CKAN record using metadata entry tool []
-- [ ] Review record on test/dev server
+- [ ] Create CKAN record using metadata entry form 
+[here](https://cioos-siooc.github.io/metadata-entry-form)
 - [ ] Test dataset on dev/test server
 
-## Dataset Review
-- [ ] Dataset Development Branch Revision (Reviewer Label)
-    - :green_circle: Reviewer Approved
-    - :yellow_circle: Reviewer Minor Revisions
-    - :orange_circle: Reviewer Major Revisions
+## Review CKAN and ERDDAP record
+- [ ] Dataset Reviewed by [Reviewer ID, link to issues]
+- [ ] Dataset Reviewed by [Reviewer ID, link to issues]
 
 ## Dataset Completion
-- [ ] Merge Development Dataset to Production Branch 
+- [ ] Push CKAN record to production server [link]
+- [ ] Push ERDDAP to production server [link]
 - [ ] COMPLETED
