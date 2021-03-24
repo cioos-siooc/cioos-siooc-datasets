@@ -1,13 +1,14 @@
 ---
-Title: Nominal Dataset ID/Title
-Description: Short description of dataset
+name: Dataset Workflow
+title: Dataset ID/Title
+about: Track dataset status
+---
+
 ERDDAP: ERDDAP link
 CKAN: CKAN link
----
 
 # CIOOS Dataset Workflow
 Nominal workflow steps/stages are listed below. Please fill in as many details as possible. It is expected that most datasets will follow similar path from submission to completion. \
-
 Note: All 'Essential' stages will need to be completed for dataset to be marked as 'Complete'
 
 ## Initial Submission

@@ -1,8 +1,7 @@
 ---
-Title: 'Dataset ID'
-Issue: Short description of problem
-About: Create a report to help us improve our datasets
-Labels: bug/update
+name: Dataset Issues
+title: Dataset ID
+about: Report Issue with dataset
 ---
 
 ## Dataset Links
@@ -10,7 +9,7 @@ Labels: bug/update
 [optional] Link to CKAN record
 
 ## Issue description
-[optional] A clear and concise description of what the bug is.
+[optional] A clear and concise description of issue
 
 ## Suggestion for correction
 [optional] Descript a possible correction to apply
