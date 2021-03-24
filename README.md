@@ -15,3 +15,5 @@ This repository has been created to track the progress of datasets from submissi
 - create a project for each new dataset
 - use template [Dataset Status Tracker] to submit a new dataset and track its progress (OR)
 - use template [Dataset Issues] to log issues with existing datasets
+- assign issue to the appropriate project
+- [optional] assign ticket to a github id
