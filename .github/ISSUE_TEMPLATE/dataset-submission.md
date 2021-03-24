@@ -2,8 +2,6 @@
 name: ERDDAP Dataset Initial Submission
 about: 'This issue template present the general CIOOS dataset submission workflow. '
 title: 'Dataset Submission: Dataset ID Here'
-labels: Submission
-assignees: ''
 ---
 
 # CIOOS Dataset Workflow
