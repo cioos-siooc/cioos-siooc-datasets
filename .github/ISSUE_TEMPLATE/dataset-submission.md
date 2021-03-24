@@ -1,13 +1,14 @@
 ---
 Title: Nominal Dataset ID/Title
 Description: Short description of dataset
-ERDDAP: [ERDDAP]()
-CKAN: [CKAN] ()
+ERDDAP: ERDDAP link
+CKAN: CKAN link
 ---
 
 # CIOOS Dataset Workflow
-Listed below are the different steps related to the initial submission of a dataset. 
-Fill in as many details as possible. It is expected that most but not all datasets will follow similar stages. The workflow is not linear but all 'Essential' stages will need to be completed for dataset to be marked as 'Complete'
+Nominal workflow steps/stages are listed below. Please fill in as many details as possible. It is expected that most datasets will follow similar path from submission to completion. \
+
+Note: All 'Essential' stages will need to be completed for dataset to be marked as 'Complete'
 
 ## Initial Submission
 - [x] CIOOS dataset submission process initiated
@@ -15,7 +16,6 @@ Fill in as many details as possible. It is expected that most but not all datase
 
 ## Create ERDDAP Dataset
 - [ ] Transform data into ERDDAP compatible format
-- [ ] QARTOD Integration (optional)
 - [ ] Create <dataset_id>.xml for ERDDAP
 - [ ] Test dataset on dev. ERDDAP server
 
