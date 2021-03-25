@@ -17,3 +17,10 @@ This repository has been created to track the progress of datasets from submissi
 - use template [Dataset Issues] to log issues with existing datasets
 - assign issue to the appropriate project
 - [optional] assign ticket to a github id
+
+### How do I update the status of a dataset ?
+- edit the status of the dataset by adding [x] to mark checkboxes
+- or add notes in comments sections to 
+- or add mentions to tag github users 
+- or add links and other information to the main issue
+- close the issue to move to completed in project view
