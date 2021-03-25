@@ -12,7 +12,7 @@ Members of different organizations will also be working on these datasets which 
 This repository has been created to track the progress of datasets from submission to completion using issue and bug-tracking tools.
 
 ### How to use this repo
-- create a project for each new dataset
+- [optional] create a project if necessary
 - use template [Dataset Status Tracker] to submit a new dataset and track its progress (OR)
 - use template [Dataset Issues] to log issues with existing datasets
 - assign issue to the appropriate project
