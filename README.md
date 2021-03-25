@@ -1,5 +1,5 @@
 ### TL;DR
-- use this repo to submit issues and track datasets progress
+- Use this repo to submit issues and track datasets progress
 
 ### Tracking progress of datasets and managing their setup on CKAN and ERDDAP
 
@@ -13,9 +13,9 @@ This repository has been created to track the progress of datasets from submissi
 
 ### How to use this repo
 - [optional] create a project if necessary
-- use template [Dataset Status Tracker] to submit a new dataset and track its progress (OR)
-- use template [Dataset Issues] to log issues with existing datasets
+- use template [Dataset Status Tracker] to submit a new dataset and track its progress OR use template [Dataset Issues] to log issues with existing datasets
 - assign issue to the appropriate project
+- assign appropriate 'region' label to be able to filter datasets by CIOOS Region
 - [optional] assign ticket to a github id
 
 ### How do I update the status of a dataset ?
