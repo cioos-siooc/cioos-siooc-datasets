@@ -3,13 +3,12 @@
 
 ### Tracking progress of datasets and managing their setup on CKAN and ERDDAP
 
-### Objective
-This 'issues-only' repository is meant to help track the progress and management of CIOOS Datasets on ERDDAP and CKAN 
+### About
+This 'issues only' repository is meant to help track and manage CIOOS Datasets. Issue templates and labels can be used to track the progress of datasets from submission to completion using issue and bug-tracking tools; mentions can be used to assign responsibilities; and KANBAN style project cards can be used to apply project management to datasets.
 
-### Details
-Most CIOOS datasets will follow different paths from initial EOI (Expression of Interest) by Data Owner to finally becoming available to the public on CIOOS website. However, there are certain essential stages that they have to pass thorugh before they can be considered complete. 
-Members of different organizations will also be working on these datasets which can make it easy to miss important steps.
-This repository has been created to track the progress of datasets from submission to completion using issue and bug-tracking tools.
+### Why ?
+- Most CIOOS datasets will follow different paths from initial EOI (Expression of Interest) by data provider to finally becoming available on the CIOOS website. However, there are certain essential stages that they have to pass thorugh before they can be considered complete. 
+- Members of different organizations will also be working on these datasets which can make it easy to miss important steps.
 
 ### How to use this repo
 - [optional] create a project if necessary
