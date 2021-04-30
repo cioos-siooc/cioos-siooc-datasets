@@ -13,24 +13,23 @@ Nominal workflow steps/stages are listed below. Please fill in as many details a
 Note: All 'Essential' stages will need to be completed for dataset to be marked as 'Complete'
 
 ## Initial Submission
-- [x] Essential - CIOOS dataset submission process initiated
-- [] Essential - CIOOS Metadata form completed [link]
+- [x] Essential - CIOOS dataset submission process initiated (Generated this issue)
+- [ ] Essential - Create CKAN record using [metadata entry form](https://cioos-siooc.github.io/metadata-entry-form)
 
 ## Create ERDDAP Dataset
-- [] Optional - Transform data into ERDDAP compatible format
-- [] Essential - Create <dataset_id>.xml for ERDDAP
-- [] Essential - Test dataset on dev. ERDDAP server
+- [ ] Optional - Transform data into ERDDAP compatible format
+- [ ] Essential - Create <dataset_id>.xml for ERDDAP
+- [ ] Essential - Test dataset on dev. ERDDAP server (pac.dev2.cioos.org)
 
 ## Create CKAN Record
-- [] Essential - Create CKAN record using [metadata entry form](https://cioos-siooc.github.io/metadata-entry-form)
-- [] Essential - Test dataset on dev/test server
+- [ ] Essential - Review metadata record on dev/test server (https://pac-dev1.cioos.org/ckan/)
 
 ## Review CKAN and ERDDAP record
-- [] Essential - Dataset Reviewed by [Reviewer ID, link to issues]
-- [] Essential - Dataset Reviewed by [Reviewer ID, link to issues]
-- [] Optional - Dataset Reviewed by data provider
+- [ ] Essential - Dataset Reviewed by [Reviewer ID, link to issues]
+- [ ] Essential - Metadata Record Reviewed by [Reviewer ID, link to issues]
+- [ ] Optional - Dataset and Metadata Reviewed by data provider
 
 ## Dataset Completion
-- [] Essential - Push CKAN record to production server
-- [] Essential - Push ERDDAP to production server
-- [] COMPLETED
+- [ ] Essential - Push CKAN record to production server
+- [ ] Essential - Push ERDDAP to production server
+- [ ] COMPLETED
