@@ -19,10 +19,10 @@ Note: All 'Essential' stages will need to be completed for dataset to be marked 
 ## Create ERDDAP Dataset
 - [ ] Optional - Transform data into ERDDAP compatible format
 - [ ] Essential - Create <dataset_id>.xml for ERDDAP
-- [ ] Essential - Test dataset on dev. ERDDAP server (pac.dev2.cioos.org)
+- [ ] Essential - Test dataset on dev. ERDDAP server
 
 ## Create CKAN Record
-- [ ] Essential - Review metadata record on dev/test server (https://pac-dev1.cioos.org/ckan/)
+- [ ] Essential - Review metadata record on dev/test server
 
 ## Review CKAN and ERDDAP record
 - [ ] Essential - Dataset Reviewed by [Reviewer ID, link to issues]
